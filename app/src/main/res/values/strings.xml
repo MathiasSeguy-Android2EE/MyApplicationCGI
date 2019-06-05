@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplicationCGI</string>
+    <string name="main_activity_title">Title</string>
+    <string name="main_activity_edt_hint">Tape ton texte ici mon choux</string>
+
+    <string name="main_activity_btnadd">Ajoutez</string>
+    <string name="alertdialog_mes">Voulez vous copier %1$s dans l\'editText</string>
+    <string name="alertdialog_oui">Oui</string>
+    <string name="alertdialog_non">Non</string>
+    <string name="toast_mess">Vive les frites</string>
+    <string name="menuitem_deletethemall">Kill them all !!! ahahah</string>
+</resources>
